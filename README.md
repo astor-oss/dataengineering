@@ -4,7 +4,7 @@
 
 ## Interesting Reads
 
-- [ ] [How to choose a Distributed Database](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/how_to_choose_db.md)
+- [x] [How to choose a Distributed Database](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/how_to_choose_db.md) [20211010]
 - [ ] [Cockroach DB Architecture](https://www.linkedin.com/posts/iamabhishekchoudhary_cockroachdbarchitecture-activity-6834117247510855680-VeCF)
 - [ ] [Amundsen Review](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/amundsen_review.md)
 - [ ] [Deep Dive - Foundation DB](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/foundationdb.md)
@@ -26,7 +26,8 @@
 - [ ] [How #dataengineering get complicated over time](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-realtime-streamprocessing-activity-6808383006567383040-xY-g)
 - [ ] [What is eBPF - Sandboxing Programs inside #linux Kernel](https://www.linkedin.com/posts/iamabhishekchoudhary_facebook-google-isovalent-microsoft-and-activity-6831817260462608384-p6QN0)
 - [ ] [Absolute Basic Explanation of SSTable & Log Structured Merge Trees - Sorted String Table & Faster Random Writes](https://www.linkedin.com/posts/iamabhishekchoudhary_datastructures-cassandra-dataengineering-activity-6833629108484784128-u-bN)
-
+- [x] [Future-of-the-modern-data-stack-by-dbt](https://blog.getdbt.com/future-of-the-modern-data-stack/)
+- [x]  [Continual.ai: The future of the modern data stack](https://continual.ai/post/the-future-of-the-modern-data-stack)
 
 ## Paper
 
