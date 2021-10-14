@@ -6,11 +6,13 @@
 
 - [x] [How to choose a Distributed Database](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/how_to_choose_db.md) [20211010]
 - [ ] [Cockroach DB Architecture](https://www.linkedin.com/posts/iamabhishekchoudhary_cockroachdbarchitecture-activity-6834117247510855680-VeCF)
+	- [CockroachDB: The Resilient Geo-Distributed SQL Database](https://iswade.github.io/translate/crdb/crdb_paper/)
+	- [x] [CockroachDB-Distributed SQL Database](./paper/CockroachDB-Distributed\ SQL\ Database.pdf)
 - [ ] [Amundsen Review](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/amundsen_review.md)
 - [ ] [Deep Dive - Foundation DB](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/foundationdb.md)
 - [ ] [The What, Why, and When of Single-Table Design with DynamoDB](https://www.alexdebrie.com/posts/dynamodb-single-table/)
 - [ ] [How To Manage And Monitor Apache Spark On Kubernetes](https://www.lightbend.com/blog/how-to-manage-monitor-spark-on-kubernetes-deep-dive-kubernetes-operator-for-spark)
-- [ ] [Git is hard: screwing up is easy, and figuring out how to fix your mistakes is fucking impossible](https://ohshitgit.com/)
+- [x] [Git is hard: screwing up is easy, and figuring out how to fix your mistakes is fucking impossible](https://ohshitgit.com/)
 - [ ] [8 Practical Use Cases of Change Data Capture](https://medium.com/event-driven-utopia/8-practical-use-cases-of-change-data-capture-8f059da4c3b7)
 - [ ] [Apache Iceberg- Links](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/apache_iceberg_read.md)
 - [ ] [Kubernetes Port Forwarding Manager](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-kuberforwarder-dataengineering-activity-6821345311655555072-aEqx)
@@ -34,7 +36,8 @@
 ### Distributed System
 
 #### Crazy
-- [ ] [The Snowflake Paper - Core idea is to build an enterprise-ready #datawarehouse solution for the #cloud 🎉📰📕](https://www.linkedin.com/posts/iamabhishekchoudhary_snowflakepaper-activity-6752909762079326208-o1cC)
+- [x] [The Snowflake Paper - Core idea is to build an enterprise-ready #datawarehouse solution for the #cloud](https://www.linkedin.com/posts/iamabhishekchoudhary_snowflakepaper-activity-6752909762079326208-o1cC) 
+  - [The-Snowflake-Paper](./paper/The Snowflake Elastic Data Warehouse.pdf) 
 - [ ] [Most important points around Distributed #dataengineering Platform](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-programminglanguages-distributedsystem-activity-6742777508380360704-qqvV)
 - [ ] [Fundamental of #distributedsystems Scaling - Avoiding Co-ordination 🎊♨️🔆](https://www.linkedin.com/posts/iamabhishekchoudhary_marcs-blog-activity-6758678779893231616-OX_h)
 - [ ] [Technical Debt in #dataengineering #softwareengineering 🔕💡🔕](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-softwareengineering-programmers-activity-6756946484488400896-2uQx)
